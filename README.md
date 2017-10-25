@@ -1,2 +1,3 @@
 # shopAssistant
-Shop Assistant written in .net core using Docker container for build
+Shop Assistant written in .net core using Docker container for build and shipping.
+
